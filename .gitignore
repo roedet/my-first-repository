@@ -1,0 +1,2 @@
+# Ignore all sqlite3 files
+db/*sqlite3
